@@ -218,4 +218,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 
-archive/
+data/
+
